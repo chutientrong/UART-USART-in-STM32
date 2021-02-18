@@ -1,0 +1,23 @@
+.\build\led.o: User\src\led.c
+.\build\led.o: .\User\include\led.h
+.\build\led.o: .\CMSIS\include\stm32f4xx.h
+.\build\led.o: .\CMSIS\include\core_cm4.h
+.\build\led.o: E:\IT\Software\Keil C\Setp\ARM\ARMCC\bin\..\include\stdint.h
+.\build\led.o: .\CMSIS\include\core_cmInstr.h
+.\build\led.o: .\CMSIS\include\core_cmFunc.h
+.\build\led.o: .\CMSIS\include\core_cm4_simd.h
+.\build\led.o: .\CMSIS\include\system_stm32f4xx.h
+.\build\led.o: .\User\include\stm32f4xx_conf.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_gpio.h
+.\build\led.o: .\CMSIS\include\stm32f4xx.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_rcc.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_syscfg.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_usart.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_fmc.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_dma.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_exti.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_i2c.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_spi.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_ltdc.h
+.\build\led.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_dma2d.h
+.\build\led.o: .\User\include\misc.h

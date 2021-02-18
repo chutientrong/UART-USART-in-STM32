@@ -1,0 +1,23 @@
+.\build\delay.o: User\src\delay.c
+.\build\delay.o: .\User\include\delay.h
+.\build\delay.o: .\CMSIS\include\stm32f4xx.h
+.\build\delay.o: .\CMSIS\include\core_cm4.h
+.\build\delay.o: E:\IT\Software\Keil C\Setp\ARM\ARMCC\bin\..\include\stdint.h
+.\build\delay.o: .\CMSIS\include\core_cmInstr.h
+.\build\delay.o: .\CMSIS\include\core_cmFunc.h
+.\build\delay.o: .\CMSIS\include\core_cm4_simd.h
+.\build\delay.o: .\CMSIS\include\system_stm32f4xx.h
+.\build\delay.o: .\User\include\stm32f4xx_conf.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_gpio.h
+.\build\delay.o: .\CMSIS\include\stm32f4xx.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_rcc.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_syscfg.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_usart.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_fmc.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_dma.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_exti.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_i2c.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_spi.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_ltdc.h
+.\build\delay.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_dma2d.h
+.\build\delay.o: .\User\include\misc.h

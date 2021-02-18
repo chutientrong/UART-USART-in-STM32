@@ -1,0 +1,23 @@
+.\build\sys.o: User\src\sys.c
+.\build\sys.o: .\User\include\sys.h
+.\build\sys.o: .\CMSIS\include\stm32f4xx.h
+.\build\sys.o: .\CMSIS\include\core_cm4.h
+.\build\sys.o: E:\IT\Software\Keil C\Setp\ARM\ARMCC\bin\..\include\stdint.h
+.\build\sys.o: .\CMSIS\include\core_cmInstr.h
+.\build\sys.o: .\CMSIS\include\core_cmFunc.h
+.\build\sys.o: .\CMSIS\include\core_cm4_simd.h
+.\build\sys.o: .\CMSIS\include\system_stm32f4xx.h
+.\build\sys.o: .\User\include\stm32f4xx_conf.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_gpio.h
+.\build\sys.o: .\CMSIS\include\stm32f4xx.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_rcc.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_syscfg.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_usart.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_fmc.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_dma.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_exti.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_i2c.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_spi.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_ltdc.h
+.\build\sys.o: .\STM32F4xx_StdPeriph_Driver\include\stm32f4xx_dma2d.h
+.\build\sys.o: .\User\include\misc.h
